@@ -4,9 +4,9 @@
 // Engineer: 
 // 
 // Create Date: 2021/07/06 17:11:13
-// Design Name: 
+// Design Name: Adamsy
 // Module Name: ALU
-// Project Name: 
+// Project Name: Pipeline CPU
 // Target Devices: 
 // Tool Versions: 
 // Description: 
